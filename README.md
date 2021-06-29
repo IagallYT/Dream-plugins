@@ -9,6 +9,7 @@ This contains almost every leaked plugin that Dream uses in his Manhunt video.
 - [Releases](#releases)  
 - [Installation](#installation)  
   - [How to download](#how-to-download)
+- [Plugins](#plugins)
 - [Social medias](#social-medias)
 - [My other projects](#my-other-projects)
 ***
@@ -55,6 +56,8 @@ Your file should looks like this!
 2. Unzip the file.
 3. Choose the plugins you want.
 4. Go to plugins folder in your minecraft server and upload the plugin files you want.
+
+# Plugins
 
 # Social medias
 Youtube: [Iamgoodatlifelol](https://m.youtube.com/channel/UCFZlRTzu_9BWQNw74NwZ6Lw)
