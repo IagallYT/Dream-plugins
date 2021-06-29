@@ -2,7 +2,7 @@
 
 This contains almost every leaked plugin that Dream uses in his Manhunt video.
 
-**Every plugins is on 1.14.4**
+**Every plugins are on 1.14.4**
 
 # Table of Contents:
 
@@ -10,6 +10,10 @@ This contains almost every leaked plugin that Dream uses in his Manhunt video.
 - [Installation](#installation)  
   - [How to download](#how-to-download)
 - [Plugins](#plugins)
+  - [AssassinHunt](#assassinhunt)
+  - [BlockShuffle](#blockshuffle)
+  - [DeathSwap](#deathswap)
+  - [LavaRain](#lavarain)
 - [Social medias](#social-medias)
 - [My other projects](#my-other-projects)
 ***
@@ -58,6 +62,17 @@ Your file should looks like this!
 4. Go to plugins folder in your minecraft server and upload the plugin files you want.
 
 # Plugins
+## AssassinHunt
+- This plugin is from [this](https://youtu.be/ZfeNh8E3O4c) video!
+**Overview:**
+This plugin was made so that whenever the speedrunner looks at the hunter, the hunter will not be able to move! If the speedrunner beats the enderdragon, the speedrunner wins. But if the assassin hit the speedrunner once, the hunter wins. This is minecraft ManHunt.
+**Commands**
+
+## BlockShuffle
+- This plugin is from [this](https://youtu.be/p34C7fNFgTA) video!
+**Overview:**
+This plugin was made so that whenever someone look at a block, it will change to random block! The goal is to beat minecraft!
+**Commands**
 
 # Social medias
 Youtube: [Iamgoodatlifelol](https://m.youtube.com/channel/UCFZlRTzu_9BWQNw74NwZ6Lw)
