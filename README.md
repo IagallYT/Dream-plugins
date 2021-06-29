@@ -16,7 +16,7 @@ This contains almost every leaked plugin that Dream uses in his Manhunt video.
 # Releases
 | Version | Download
 | --- | --- |
-v1.0.0 | [Download](https://github.com/IagallYT/)
+v1.0.0 | [Download](https://github.com/IagallYT/Dream-plugins/releases/download/1.0.0/v1.0.0.zip)
 <details>
   <summary> Changelog </summary>
  <details>
@@ -35,7 +35,6 @@ v1.0.0 | [Download](https://github.com/IagallYT/)
 - Minecraft
 
 **You need to download the lastest .zip file from github releases**
-
 
 ### Steps:
 
