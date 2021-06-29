@@ -48,7 +48,7 @@ v1.0.0 | [Download](https://github.com/IagallYT/Dream-plugins/releases/download/
 
 Your file should looks like this!
 
-![21 05 2021_15 55 01_REC](https://user-images.githubusercontent.com/84431885/119111121-f7a50500-ba4c-11eb-9a4c-8ac51b7fa45e.png)
+![29 06 2021_11 47 46_REC](https://user-images.githubusercontent.com/84431885/123742727-6429e400-d8d6-11eb-8293-c52786d08e2f.png)
 
 **Method 2: Installing plugins to your minecraft server.**
 1. Download the file from [releases](https://github.com/IagallYT/).
